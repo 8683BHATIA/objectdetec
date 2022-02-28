@@ -1,0 +1,11 @@
+"""
+pip installation of :
+opencv--python
+scikit--image
+pillow
+pixellib
+tensorflow--gpu
+imageai
+keras
+
+"""
